@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/CST236-ActivityGuide",
+  "description": "GCU CST236 Activity Guide (All projects combined here)",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "JaredHeeringa",
+      "email": "jaredheeringa@iCloud.com"
+    }
+  ],
+  "require": {
+  }
+}
