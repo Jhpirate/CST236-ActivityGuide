@@ -3,7 +3,7 @@ Grand Canyon University Activity Guides for CST236. See below for complete descr
   
 **CST-126 Activity #1**  - Completed (01/09/2021)
 
-**CST-126 Activity #2**  - TBD
+**CST-126 Activity #2**  - Completed (02/01/2021)
 
 **CST-126 Activity #3**  - TBD
 
