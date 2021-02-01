@@ -1,0 +1,28 @@
+<!-- Main HTML page for searching -->
+<!-- Query is sent off to be handled by searchHandler.php -->
+
+<!--
+
+PROGRAM FLOW:
+search.html ->
+searchHandler.php ->
+UserBusinessService.php (class) ->
+UserDataService.php & Database.php (classes)
+
+then results are displayed with the helper page _displayAllusers.php & searchHandler.php
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Activity 2 Search Form</title>
+</head>
+<body>
+
+<form action="searchHandler.php" method="post">
+    <input type="text" name="searchQuery">
+    <input type="submit">
+</form>
+
+</body>
+</html>
