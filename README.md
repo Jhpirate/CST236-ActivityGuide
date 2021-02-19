@@ -5,7 +5,7 @@ Grand Canyon University Activity Guides for CST236. See below for complete descr
 
 **CST-126 Activity #2**  - Completed (02/01/2021)
 
-**CST-126 Activity #3**  - TBD
+**CST-126 Activity #3**  - Completed (02/14/2021)
 
 **CST-126 Activity #4**  - TBD
 
@@ -40,7 +40,18 @@ Grand Canyon University Activity Guides for CST236. See below for complete descr
     - In this activity, students will create the necessary PHP scripts that can be used to provide Page Security in a PHP application.
 
 # Activity Guide #3
-(Activity description below)
+- **Part #1 (Database Design):**
+  - In this activity, students will create an ER Diagram using MySQL Workbench and create a Data Dictionary using a XLS Template. Reference "How To - Create an ER Diagram in MySQL Workbench," located within the Required Readings, as needed.
+  
+- **Part #2 (MySQL Imports):**
+  - In this activity, students will bulk data from a file into a database table using MySQL Workbench.
+    - *This should have been explored earlier in the degree path at GCU, but it's not*
+  
+- **Part #3 (Inner Joins):**
+  - In this activity, students will learn how to use SQL Inner Joins to query for data across two tables. Students will create a table and bulk load data into the table, then write SQL Inner Joins in MySQL Workbench.
+  
+- **Part #4 (Table Indexing):**
+  - In this activity, students will learn how run a MySQL Explain Plan and add an Index to a desired column in a table. Students will use the customers table from a previous activity and MySQL Workbench.
 
 # Activity Guide #4
 (Activity description below)
