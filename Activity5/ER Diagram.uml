@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>fb75d16f-3325-43a2-bd03-9619f30e2394.TABLE:cst236_activity_guide.account_checking</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">fb75d16f-3325-43a2-bd03-9619f30e2394.TABLE:cst236_activity_guide.account_savings</node>
+    <node x="224.0" y="0.0">fb75d16f-3325-43a2-bd03-9619f30e2394.TABLE:cst236_activity_guide.account_checking</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.8516746411483253" x="757.2921348314608" y="62.56460674157307" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Key columns</Category>
+    <Category>Columns</Category>
+    <Category>Virtual foreign keys</Category>
+  </Categories>
+</Diagram>
+
