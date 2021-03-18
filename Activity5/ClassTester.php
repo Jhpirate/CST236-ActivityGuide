@@ -87,7 +87,7 @@ echo "Savings: $" . number_format($bankingAccess->getSavingsBalance(), 2) . "<br
 
 
 // Move $100 from checking to savings
-$bankingAccess->transferFromCheckingToSavings(0.01);
+$bankingAccess->transferFromCheckingToSavings(100);
 
 // print balance after transfer
 echo "<br>=== Current Account Balances (After Transfer) ===<br>";
