@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>PHP</ID>
+  <OriginalElement>\BankingBusinessService</OriginalElement>
+  <nodes>
+    <node x="0.0" y="378.0">\BankingBusinessService</node>
+    <node x="278.0" y="189.0">\DatabaseConnection</node>
+    <node x="0.0" y="0.0">\CheckingAccountDataService</node>
+    <node x="0.0" y="189.0">\SavingsAccountDataService</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="155.0" y="245.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Constants</Category>
+  </Categories>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
