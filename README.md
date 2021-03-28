@@ -11,7 +11,7 @@ Grand Canyon University Activity Guides for CST236. See below for complete descr
 
 **CST-126 Activity #5**  - Completed (03/17/2021)
 
-**CST-126 Activity #6**  - TBD
+**CST-126 Activity #6**  - Completed (03/28/2021)
 
 # Activity Guide #1
 - **Part #1 (Install & Cloud Hosting):**
